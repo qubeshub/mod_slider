@@ -1,0 +1,8 @@
+{
+	"name": "qubeshub/mod_slider",
+	"description": "Displays billboards in slider format",
+	"type": "hubzero-module",
+	"extra": {
+	    "install-directory": "/modules/mod_slider"
+	}
+}
